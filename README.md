@@ -1,0 +1,1 @@
+User classification project including data exploration, preproccesing and machine learning pipeline with validation and hyperparameter tuning to predict if the review is positive or not.
